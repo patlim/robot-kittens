@@ -55,8 +55,7 @@ export default function Home() {
             prevNextButtons: true,
             imagesLoaded: true,
             bgLazyLoad: true,
-            adaptiveHeight: false,
-            setGallerySize: false,
+            setGallerySize: true,
             initialIndex: 1,
           }}
           disableImagesLoaded={false}

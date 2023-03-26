@@ -78,6 +78,10 @@ a {
   text-decoration: none;
 }
 
+.flickity-viewport {
+  height: 100% !important;
+}
+
 .flickity-slider {
   display: flex;
   align-items: flex-end;
