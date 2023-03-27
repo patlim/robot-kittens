@@ -1,13 +1,13 @@
 @font-face {
   font-family: 'Lato';
-  src: url(/fonts/Lato-Regular.woff) format('woff'),
-    url(/fonts/Lato-Regular.woff2) format('woff2');
+  src: url(./fonts/Lato-Regular.woff) format('woff'),
+    url(./fonts/Lato-Regular.woff2) format('woff2');
 }
 
 @font-face {
   font-family: 'Suissnord';
-  src: url(/fonts/Suissnord-Regular.woff) format('woff'),
-    url(/fonts/Suissnord-Regular.woff2) format('woff2');
+  src: url(./fonts/Suissnord-Regular.woff) format('woff'),
+    url(./fonts/Suissnord-Regular.woff2) format('woff2');
 }
 
 :root {
