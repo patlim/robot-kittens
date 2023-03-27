@@ -54,6 +54,7 @@ export default function Home() {
             draggable: true,
             prevNextButtons: true,
             imagesLoaded: true,
+            lazyLoad: true,
             bgLazyLoad: true,
             setGallerySize: true,
             initialIndex: 1,
